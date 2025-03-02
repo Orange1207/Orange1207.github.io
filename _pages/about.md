@@ -9,29 +9,64 @@ redirect_from:
 
 Education
 ======
-* **BSc in Applied Mathematics**  
-  *Beijing Normal University-Hong Kong Baptist University United International College (UIC)*  
-  Sept 2022 – June 2026 (Expected)  
-  GPA: 3.79/4.0 (Rank 2) | Minor in Computer Science and Technology  
-  Relevant Courses: Machine Learning, Numerical Analysis, Data Mining, Optimization, PDE  
+* **Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
+  Sept 2022 – June 2026 (Expected)
+  Major: BSc in Applied Mathematics    *GPA: 3.79/4.0 (Rank 2)* 
+  Minor: BSc in Computer Science and Technology  
 
-Work experience
+Reserch Experience
 ======
-* **Research Assistant | Fluid Mechanics Lab, UIC**  
+* **Team Member (Preparation for FYP, Mentor: Prof.Jianglun Wu) | Multiscale Cancer Modeling Project**  
   *Feb 2025 – Present*  
-  - Conducted cerebrospinal fluid dynamics analysis for traumatic brain injury studies  
-  - Developed Python/Matlab scripts for biomechanical simulations and data visualization  
-
-* **Team Member | Multiscale Cancer Modeling Project**  
+  - Developed a hybrid probabilistic model to study leader-follower cell migration in cancer invasion, combining Markov chains
+for state transitions (e.g.polarity to dynamic states) and Poisson processes for timing of migration events.  
+  - Incorporated environmental factors (e.g.FGF10 gradients) into transition probabilities, using experimental data to calibrate
+model parameters.
+  - Explored the impact of cell-cell interactions and chemical cues on metastatic potential through agent-based simulations.
+  - Proposed preliminary strategies to predict high-risk migration paths and potential therapeutic targets.
+  - Search for multiple median data to validate model predictions against live-cell imaging data.
+    
+* **Research Assistant ( Mentor: Dr.Jiaqi Zhang ) | A Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
   *Feb 2025 – Present*  
-  - Built hybrid Markov-Poisson models to predict cancer cell migration patterns  
-  - Calibrated parameters using live-cell imaging data (10+ experimental datasets)  
-
-* **Research Assistant | Olympic Archery Equipment Development**  
+  - Read papers on rotation - induced traumatic brain injury to understand cerebrospinal fluid’s role  
+  - Analyzed different density ratios and created scatter plots to explore their impact on related factors
+    
+* **Research Assistant ( Mentor: Dr.Jiaqi Zhang ) | Olympic Preparation Technology Research Project: Development of the Third Generation Intelligent Selection Arrow Equipment and System**  
   *June 2024 – Oct 2024*  
-  - Optimized arrow selection algorithms through regression modeling (Python/Matlab)  
-  - Reduced equipment error rate by 18% via numerical integration analysis  
+  - Test archery experiments, and collect datasets (8 parameters) about the arrow’s ejection motion
+  - Use Python for statistical processing of data and Matlab numerical integration for error estimation
+  - Built regression models to observe their stability
+  - Created visualizations, analysis how to optimize the selected arrow’s machine  
 
+Project Experience
+======
+* **2020 U.S. Election Sentiment Analysis, Core Member **
+  *Nov 2024*
+* **Analysis of Regional Medical Resource Allocation in China, Core Member **
+  *Sept 2024*
+* **Sex Ratio Effects on Lamprey Ecosystem Dynamics, Core Member **
+  *Feb 2024*
+
+Extracurricular Experience
+======
+* **ITSC department of UIC, Student Assistant **
+  *Sept 2024 – Present*
+  - Assisted in daily work, provided auxiliary technical support, engaged in project management
+* **UIC, Peer Mentor **
+  *Aud 2023 - June 2024*
+  - Provided academic and life guidance for freshmen to help them adapt to university life.
+  - Established a good teacher-student relationship through regular meetings and activities, which has improved the satisfaction
+and sense of belonging of new students.
+* **UIC W-beE Outdoor Club, Finance Department Officer **
+  *Sept 2023 - Aug 2024 *
+  - Responsible for the financial management of the club, including budget preparation, sponsorship, fund allocation, and financial reporting
+  - Successfully organized multiple outdoor activities, ensured the reasonable use of activity funds, and improved the financial
+transparency of the club
+* **UIC Table Tennis Association, Working Staff **
+  *Sept 2022 - June 2023 *
+  - Assisted in organizing table tennis competitions and training activities, including venue arrangements and equipment management, and served as a match referee, ensuring the smooth progress of the event.
+
+    
 Skills
 ======
 * **Technical:**  
@@ -41,39 +76,6 @@ Skills
 * **Languages:**  
   English (CET-6) | Chinese (Native)  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* **Peer Mentor, UIC**  
-  *Aug 2023 – June 2024*  
-  - Guided 15+ freshmen through academic transition programs  
-  - Achieved 95% satisfaction rate in mentorship evaluations  
-
-* **Finance Officer | W-beE Outdoor Club**  
-  *Sept 2023 – Aug 2024*  
-  - Managed ¥50,000+ annual budget with 100% financial transparency  
-  - Organized 8+ large-scale outdoor events (200+ participants)  
-
-* **Volunteer | Greater Bay Area Math Education Forum**  
-  *2023*  
-  - Coordinated logistics for 300+ attendees and keynote sessions  
 
 ---
 
