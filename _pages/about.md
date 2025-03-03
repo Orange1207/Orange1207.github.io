@@ -55,6 +55,7 @@ You can get my CV here [tianzhiwen_CV](../files/CV_twopage.pdf).
   </div>
 </div>
 
+---
 
 ## 📖 Research Experience
 - **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
