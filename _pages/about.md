@@ -13,8 +13,8 @@ Welcome to June's Homepage! My name is **Zhiwen Tian (June)**, and I am a dedica
 ## 🎓 Education
 **Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
 *Sept 2022 – June 2026 (Expected)*  
-- **BSc**: Major in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
-- **BSc**: Minor in Computer Science and Technology  
+- **BSc: Major in Applied Mathematics** | GPA: 3.79/4.0 (Rank 2)  
+- **BSc: Minor in Computer Science and Technology**  
 
 ---
 
@@ -31,31 +31,34 @@ Welcome to June's Homepage! My name is **Zhiwen Tian (June)**, and I am a dedica
 ## 💻 Project Experience
 - **2020 U.S. Election Sentiment Analysis**  [report](../files/project1.pdf)
   *Core Member* | Nov 2024
+  
 - **Spam Classification Analysis and Optimization Using Machine Learning
 Models**  [report](../files/report.pdf)
-  *Sole Author* | Feb 2024  
+  *Sole Author* | Feb 2024
+  
 - **Analysis of Regional Medical Resource Allocation in China**  [report](../files/project2.pdf)
-  *Core Member* | Sept 2024  
+  *Core Member* | Sept 2024
+  
 - **Sex Ratio Effects on Lamprey Ecosystem Dynamics**  [report](../files/project3.pdf)
   *Core Member* | Feb 2024  
 
 ---
 
 ## 💼 Extracurricular Experience
-* ITSC department of UIC, Student Assistant | Sept 2024 – Present
-* UIC Peer Mentor Program | Aud 2023 - June 2024
-* W-beE Outdoor Club, Finance Department Officer  | Sept 2023 - Aug 2024
-* UIC Table Tennis Association, Working Staff  | Sept 2022 - June 2023
+* ITSC department of UIC, Student Assistant | *Sept 2024 – Present*
+* UIC Peer Mentor Program | *Aud 2023 - June 2024*
+* W-beE Outdoor Club, Finance Department Officer  | *Sept 2023 - Aug 2024*
+* UIC Table Tennis Association, Working Staff  | *Sept 2022 - June 2023*
 
 ---
 
 ## 🏆 Awards
 * **2022-2024 First Class Award & Second Class Award**
-* **2024 The Third National Data Analysis Competition for College Student** | Second Prize
-* **2024 Mathematical Contest in Modeling (MCM)** | Meritorious Winner (Top 8%)
-* **2024 National Undergraduate Mathematical Contest in Modeling** | Third Prize
+* **2024 The Third National Data Analysis Competition for College Student** | *Second Prize*
+* **2024 Mathematical Contest in Modeling (MCM)** | *Meritorious Winner (Top 8%)*
+* **2024 National Undergraduate Mathematical Contest in Modeling** | *Third Prize*
 * **2022-2023 Guangdong-HK-Macau Scholarship**
-* **2023 Shenzhen Cup Mathematical Modeling Challenge** | Second Prize
+* **2023 Shenzhen Cup Mathematical Modeling Challenge** | *Second Prize*
 
 ## 💐 Skills and Habbies
 * Technology Skills: python, Matlab, R , Latex, SPSS, Microsoft Office
