@@ -37,7 +37,7 @@ redirect_from:
 ---
 
 ## 💻 Project Experience
-- **2020 U.S. Election Sentiment Analysis**  [report](files/project1.pdf) <a herf = https://github.com/Orange1207/Orange1207.github.io/blob/05a1dbbda1f198bc67d15db9687b97e5e23a0a69/files/project1.pdf>report</a>
+- **2020 U.S. Election Sentiment Analysis**  [report](../files/project1.pdf)
   *Core Member* | Nov 2024
 - **Spam Classification Analysis and Optimization Using Machine Learning
 Models**  [report](files/report.pdf)
