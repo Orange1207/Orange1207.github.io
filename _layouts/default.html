@@ -9,6 +9,7 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
   </head>
 
   <body>
@@ -16,7 +17,14 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    {{ content }}
+    <div class="main-content">
+      {{ content }}
+    </div>
+    
+    <aside class="sidebar">
+      <h2>Sidebar</h2>
+      <p>This is the right sidebar content. You can add more content here.</p>
+    </aside>
 
     <div class="page__footer">
       <footer>
