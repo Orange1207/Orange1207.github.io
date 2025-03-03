@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Education
+*Education
 ======
 * **Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
   Sept 2022 – June 2026 (Expected)
