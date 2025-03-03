@@ -37,11 +37,14 @@ redirect_from:
 ---
 
 ## 💻 Project Experience
-- **2020 U.S. Election Sentiment Analysis**  
-  *Core Member* | Nov 2024  
-- **Analysis of Regional Medical Resource Allocation in China**  
+- **2020 U.S. Election Sentiment Analysis**  [report](files/project1.pdf)
+  *Core Member* | Nov 2024
+- **Spam Classification Analysis and Optimization Using Machine Learning
+Models**  [report](files/report.pdf)
+  *Sole Author* | Feb 2024  
+- **Analysis of Regional Medical Resource Allocation in China**  [report](files/project2.pdf)
   *Core Member* | Sept 2024  
-- **Sex Ratio Effects on Lamprey Ecosystem Dynamics**  
+- **Sex Ratio Effects on Lamprey Ecosystem Dynamics**  [report](files/project3.pdf)
   *Core Member* | Feb 2024  
 
 ---
