@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-* Education
+**Education**
 =====
-* **Beijing Normal University-Hong Kong Baptist University United International College (UIC)**   *Sept 2022 – June 2026 (Expected)*
+* ***Beijing Normal University-Hong Kong Baptist University United International College (UIC)***   *Sept 2022 – June 2026 (Expected)*
   - Major: BSc in Applied Mathematics    *GPA: 3.79/4.0 (Rank 2)* 
   - Minor: BSc in Computer Science and Technology  
 
