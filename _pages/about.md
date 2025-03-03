@@ -30,7 +30,7 @@ Welcome to June's Homepage! My name is **Zhiwen Tian (June)**, and I am a dedica
 ---
 
 ## 💻 Project Experience
-- **2020 U.S. Election Sentiment Analysis**  
+- **2020 U.S. Election Sentiment Analysis [Report](../files/project1.pdf)**  
   *Core Member | Nov 2024*  
   [Report](../files/project1.pdf)  
 - **Spam Classification Analysis and Optimization Using Machine Learning Models**  
@@ -46,8 +46,7 @@ Welcome to June's Homepage! My name is **Zhiwen Tian (June)**, and I am a dedica
 ---
 
 ## 💼 Extracurricular Experience
-- **ITSC Department of UIC, Student Assistant**  
-  *Sept 2024 – Present*  
+- **ITSC Department of UIC, Student Assistant**  *Sept 2024 – Present*  
 - **UIC Peer Mentor Program**  
   *Aug 2023 – June 2024*  
 - **W-beE Outdoor Club, Finance Department Officer**  
