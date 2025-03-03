@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
+Welcome to my homepage!Hello! My name is Zhiwen Tian (June), and I am a dedicated and passionate student at Beijing Normal University-Hong Kong Baptist University United International College (UIC). I am currently pursuing a Bachelor of Science in Applied Mathematics with a minor in Computer Science and Technology. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
 
 <nav>
   <ul style="list-style-type: none; font-size: 1.2em; margin: 0; padding: 0;">
@@ -64,5 +65,10 @@ Models**  [report](../files/report.pdf)
 - **2024 National Undergraduate Mathematical Contest in Modeling** | Third Prize
 - **2022-2023 Guangdong-HK-Macau Scholarship**
 - **2023 Shenzhen Cup Mathematical Modeling Challenge** | Second Prize
+
+## 💐 Skills and Habbies
+Technology Skills: python, Matlab, R , Latex, SPSS, Microsoft Office
+Language: English (Medium of Instruction, CET-6), Chinese (Mother Tongue)
+Hobbies: Writing, Swimming, Frisbee, Basketball
 
 *Last updated: March 2025*  
