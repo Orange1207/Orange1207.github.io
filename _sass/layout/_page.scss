@@ -52,9 +52,41 @@
 }
 
 .page__content {
-  max-width: 1200px; // 增加内容最大宽度
+  max-width: 1800px; // 增加内容最大宽度
   margin: 0 auto; // 居中对齐
   padding: 0 20px; // 增加左右内边距
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.column {
+  flex: 50%;
+  padding: 0 15px;
+  position: relative;
+}
+
+.date {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-style: italic;
+  color: #666;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    margin-bottom: 20px;
+  }
+  .date {
+    position: static;
+    display: block;
+    margin-top: 5px;
+  }
+}
 
   h2 {
     padding-bottom: 0.5em;
