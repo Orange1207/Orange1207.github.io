@@ -20,16 +20,21 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+# - title: "CV"
+#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Education"
+   - title: "Education"
+    url: "/about/#education"
   - title: "Research"
-  - title: "Project"
+    url: "/about/#research-experience"
+  - title: "Projects"
+    url: "/about/#project-experience"
   - title: "Experience"
+    url: "/about/#extracurricular-experience"
   - title: "Awards"
+    url: "/about/#awards"
   
    
