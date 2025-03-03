@@ -1,8 +1,35 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #e8e9ea;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e8e9ea;
+}
+
+/* Container styles */
 .container {
     max-width: 1000px;
     margin: 0 auto;
 }
 
+/* Flexbox styles */
 .flex-container {
     display: flex;
     justify-content: space-between;
@@ -20,6 +47,7 @@
 .center-text {
     text-align: center;
 }
+
 /* Custom styles */
 .sidebar {
     width: 400px; /* Adjust the width here as needed */
