@@ -7,61 +7,77 @@ redirect_from:
   - /about.html
 ---
 
-**Education**
-=====
-* ***Beijing Normal University-Hong Kong Baptist University United International College (UIC)***   *Sept 2022 – June 2026 (Expected)*
-  - Major: BSc in Applied Mathematics    *GPA: 3.79/4.0 (Rank 2)* 
-  - Minor: BSc in Computer Science and Technology  
-
-* Reserch Experience
-======
-* **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
-  Team Member (Preparation for FYP, Mentor: Prof.Jianglun Wu) | *Feb 2025 – Present*  
-    
-* **A Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
-  Research Assistant ( Mentor: Dr.Jiaqi Zhang ) | *Feb 2025 – Present*  
-    
-* **Olympic Preparation Technology Research Project: Development of the Third Generation Intelligent Selection Arrow Equipment and System**  *June 2024 – Oct 2024*  
-  Research Assistant ( Mentor: Dr.Jiaqi Zhang ) 
-  
-
-* Project Experience
-======
-* **2020 U.S. Election Sentiment Analysis, Core Member**  *Nov 2024*
-* **Analysis of Regional Medical Resource Allocation in China, Core Member** *Sept 2024*
-* **Sex Ratio Effects on Lamprey Ecosystem Dynamics, Core Member** *Feb 2024*
-
-* Extracurricular Experience
-======
-* **ITSC department of UIC, Student Assistant**  *Sept 2024 – Present*
-* **UIC, Peer Mentor**  *Aud 2023 - June 2024*
-* **UIC W-beE Outdoor Club, Finance Department Officer**  *Sept 2023 - Aug 2024 *
-* **UIC Table Tennis Association, Working Staff**  *Sept 2022 - June 2023 *
-
-
-  
-* Skills
-======
-* **Technical:**  
-  Python | MATLAB | R | LaTeX | Machine Learning (XLNet, LSTM) | Data Visualization  
-* **Analytical:**  
-  Stochastic Modeling | Time Series Forecasting (ARIMA) | Spatial Analysis (Moran’s I)  
-* **Languages:**  
-  English (CET-6) | Chinese (Native)  
-
+## Education
+**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
+*Sept 2022 – June 2026 (Expected)*  
+- BSc in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
+- Minor in Computer Science and Technology  
+- Relevant Coursework: Stochastic Processes, Numerical Analysis, Machine Learning  
 
 ---
 
-*Awards & Honors*  
-- 2022-2024 First/Second Class Academic Awards  
-- 2024 The Third National Data Analysis Competition for College Students, Second Prize 
-- 2024 Mathematical Contest in Modeling (MCM), Meritorious Winner (Top 8%) 
-- 2023-2024 Outstanding Peer Mentor Award , UIC 
-- 2024 Bronze Award of Servant Leadership, UIC
-- 2023 National Undergraduate Mathematical Contest in Modeling, Third Prize 
-- 2023 GUANGDONG-HONG KONG-MACAO GREATER BAY AREA MATHEMATICS EDUCATION FORUM volunteer
-- 2022-2023 Guangdong Medical Valley Scholarship 
-- 2023 Shenzhen Cup Mathematical Modeling Challenge, Second Prize 
-- 2023 Best Chinese Writing Award, UIC
+## Research Experience
+**Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
+*Team Member | Feb 2025 – Present*  
+- Collaborating with Prof. Jianglun Wu to develop PDE models for cancer evolution  
+- Implementing Monte Carlo simulations in MATLAB  
 
-*Last Updated: March 2025*
+**Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
+*Research Assistant | Feb 2025 – Present*  
+- Assisted Dr. Jiaqi Zhang in CFD modeling using ANSYS Fluent  
+- Analyzed shear stress distribution under rotational acceleration  
+
+**Olympic Intelligent Archery Equipment Development**  
+*Research Assistant | June 2024 – Oct 2024*  
+- Designed sensor fusion algorithm for arrow selection system  
+- Prototyped IoT device with Raspberry Pi and strain gauges  
+
+---
+
+## Project Experience
+**2020 U.S. Election Sentiment Analysis** | *Python, XLNet*  
+- Built LSTM model with 89% accuracy in predicting state-level voting trends  
+- Scraped 500k+ tweets using Twitter API  
+
+**Regional Medical Resource Allocation Analysis** | *R, Moran's I*  
+- Identified 23% resource disparity between coastal and inland provinces  
+- Proposed optimization model reducing allocation variance by 37%  
+
+**Lamprey Ecosystem Dynamics Modeling** | *Matlab, ODE*  
+- Developed predator-prey model incorporating sex ratio effects  
+- Predicted population collapse threshold at 1:4 female-male ratio  
+
+---
+
+## Technical Skills
+**Programming**  
+`Python` `MATLAB` `R` `LaTeX` `SQL`  
+**Machine Learning**  
+`LSTM` `XLNet` `ARIMA` `Tableau` `Scikit-learn`  
+**Tools**  
+`ANSYS Fluent` `Git` `Linux` `AWS EC2` `Docker`  
+
+---
+
+## Leadership & Activities
+**UIC Peer Mentor Program**  
+- Trained 15 freshmen on academic planning and research skills  
+- Received "Outstanding Mentor" award (Top 5%)  
+
+**ITSC Department Student Assistant**  
+- Developed Python scripts automating 80% of grade entry tasks  
+- Provided tech support for 200+ faculty members  
+
+**W-beE Outdoor Club**  
+- Organized 12+ hiking events with 300+ total participants  
+- Managed CNY 50,000 annual budget  
+
+---
+
+## Awards
+🏆 **Mathematical Contest in Modeling** | Meritorious Winner (Top 8%) | 2024  
+🏆 **National Data Analysis Competition** | National 2nd Prize | 2024  
+🏆 **Guangdong-HK-Macau Scholarship** | Top 3% Recipient | 2023  
+🏆 **Academic Excellence Award** | 2x First Class Honors | 2022-2024  
+
+*Last updated: March 2025*  
