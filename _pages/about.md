@@ -51,10 +51,10 @@ redirect_from:
 ---
 
 ### Awards
-🏆 **2022-2024 First Class Award & Second Class Award** 
-🏆 **2024 The Third National Data Analysis Competition for College Student** | Second Prize
+🏆 <small>2022-2024 First Class Award & Second Class Award<small>
+🏆 ***2024 The Third National Data Analysis Competition for College Student*** | Second Prize
 🏆 **2024 Mathematical Contest in Modeling (MCM)** | Meritorious Winner (Top 8%) | 2024  
-🏆 **2024 National Undergraduate Mathematical Contest in Modeling** | Third Prize  
+🏆 ***2024 National Undergraduate Mathematical Contest in Modeling** | Third Prize  
 🏆 **2022-2023 Guangdong-HK-Macau Scholarship** 
 🏆 **2023 Shenzhen Cup Mathematical Modeling Challenge** | Second Prize
 
