@@ -22,7 +22,7 @@ url                      : https://Orange1207.github.io # the base hostname & pr
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Zhiwen Tian (June)"
   pronouns         : # example: "she/her"  
   bio              : "BSc, UIC"
