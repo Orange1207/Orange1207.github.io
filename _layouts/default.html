@@ -17,14 +17,17 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div class="main-content">
-      {{ content }}
+    <div class="container">
+      <div class="main-content">
+        {{ content }}
+      </div>
+      
+      <aside class="sidebar">
+        <h2>Sidebar</h2>
+        <p>This is the right sidebar content. You can add more content here.</p>
+        <img src="{{ site.url }}/images/personal.jpg" alt="Zhiwen Tian" style="width: 150px; height: 150px; border-radius: 50%;">
+      </aside>
     </div>
-    
-    <aside class="sidebar">
-      <h2>Sidebar</h2>
-      <p>This is the right sidebar content. You can add more content here.</p>
-    </aside>
 
     <div class="page__footer">
       <footer>
