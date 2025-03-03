@@ -42,9 +42,10 @@ redirect_from:
 ---
 
 ### Extracurricular Experience
+- ITSC department of UIC, Student Assistant
 - UIC Peer Mentor Program
-- ITSC Department Student Assistant
-- W-beE Outdoor Club  
+- W-beE Outdoor Club
+- UIC Table Tennis Association
 
 
 ---
