@@ -4,28 +4,29 @@ title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 <nav>
-  <ul>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#research-experience">Research Experience</a></li>
-    <li><a href="#project-experience">Project Experience</a></li>
-    <li><a href="#extracurricular-experience">Extracurricular Experience</a></li>
-    <li><a href="#awards">Awards</a></li>
+  <ul style="list-style-type: none; font-size: 1.2em; margin: 0; padding: 0;">
+    <li style="display: inline; margin-right: 15px;"><a href="#education">🎓 Education</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#research-experience">🔬 Research</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#project-experience">💼 Projects</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#extracurricular-experience">🏅 Experience</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#awards">🏆 Awards</a></li>
   </ul>
 </nav>
 
-## Education
+---
+
+## 🎓 Education
 **Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
 *Sept 2022 – June 2026 (Expected)*  
-* **BSc**: Major in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
-* **BSc**: Minor in Computer Science and Technology  
+- **BSc**: Major in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
+- **BSc**: Minor in Computer Science and Technology  
 
 ---
 
-## Research Experience
+## 📖 Research Experience
 - **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
   *Team Member (Mentor: Prof. Jianglun Wu) | Feb 2025 – Present*  
 - **Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
@@ -35,7 +36,7 @@ redirect_from:
 
 ---
 
-## Project Experience
+## 💻 Project Experience
 - **2020 U.S. Election Sentiment Analysis**  
   *Core Member* | Nov 2024  
 - **Analysis of Regional Medical Resource Allocation in China**  
@@ -45,7 +46,7 @@ redirect_from:
 
 ---
 
-## Extracurricular Experience
+## 💼 Extracurricular Experience
 - ITSC department of UIC, Student Assistant
 - UIC Peer Mentor Program
 - W-beE Outdoor Club
@@ -53,12 +54,12 @@ redirect_from:
 
 ---
 
-## Awards
-- 🏆 **2022-2024 First Class Award & Second Class Award**
-- 🏆 **2024 The Third National Data Analysis Competition for College Student** | Second Prize
-- 🏆 **2024 Mathematical Contest in Modeling (MCM)** | Meritorious Winner (Top 8%)
-- 🏆 **2024 National Undergraduate Mathematical Contest in Modeling** | Third Prize
-- 🏆 **2022-2023 Guangdong-HK-Macau Scholarship**
-- 🏆 **2023 Shenzhen Cup Mathematical Modeling Challenge** | Second Prize
+## 🏆 Awards
+- **2022-2024 First Class Award & Second Class Award**
+- **2024 The Third National Data Analysis Competition for College Student** | Second Prize
+- **2024 Mathematical Contest in Modeling (MCM)** | Meritorious Winner (Top 8%)
+- **2024 National Undergraduate Mathematical Contest in Modeling** | Third Prize
+- **2022-2023 Guangdong-HK-Macau Scholarship**
+- **2023 Shenzhen Cup Mathematical Modeling Challenge** | Second Prize
 
 *Last updated: March 2025*  
