@@ -8,11 +8,11 @@ redirect_from:
 
 <nav>
   <ul style="list-style-type: none; font-size: 1.2em; margin: 0; padding: 0;">
-    <li style="display: inline; margin-right: 15px;"><a href="#education">🎓 Education</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="#research-experience">🔬 Research</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="#project-experience">💼 Projects</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="#extracurricular-experience">🏅 Experience</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="#awards">🏆 Awards</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#education">Education</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#research-experience">Research</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#project-experience">Projects</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#extracurricular-experience">Experience</a></li>
+    <li style="display: inline; margin-right: 15px;"><a href="#awards">Awards</a></li>
   </ul>
 </nav>
 
