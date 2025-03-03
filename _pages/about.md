@@ -1,22 +1,23 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
 ---
 
 Welcome to June's Homepage! 💗
-My name is **Zhiwen Tian (June)**, and I am a dedicated and passionate student at UIC. I am currently pursuing a Bachelor of Science in **Applied Mathematics** with a minor in **Computer Science and Technology**. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
 
-More details in my [CV](../files/CV_twopage.pdf) .
+My name is **Zhiwen Tian (June)**. I am currently pursuing a Bachelor of Science in **Applied Mathematics** with a minor in **Computer Science and Technology**. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
+
+You can get my CV here [tianzhiwen_CV](../files/CV_twopage.pdf). 
 
 ---
 
 ## 🎓 Education
-**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**      *Sept 2022 – June 2026 (Expected)*  
-- **BSc**: Major in Applied Mathematics      *GPA: 3.79/4.0 (Rank 2)*  
-- **BSc**: Minor in Computer Science and Technology  
+**2022.09 - 2026.06 Beijing Normal University-Hong Kong Baptist University United International College (UIC)**       
+- **BSc**: Major in Applied Mathematics and  Minor in Computer Science and Technology    
+- **GPA**:  3.79/4.0 (Rank 2)
 
 ---
 
