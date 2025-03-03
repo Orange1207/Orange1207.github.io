@@ -9,23 +9,24 @@ redirect_from:
 Welcome to June's Homepage! 💗
 My name is **Zhiwen Tian (June)**, and I am a dedicated and passionate student at UIC. I am currently pursuing a Bachelor of Science in **Applied Mathematics** with a minor in **Computer Science and Technology**. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
 
-More details is in my [CV](../files/CV_twopage.pdf) .
+More details in my [CV](../files/CV_twopage.pdf) .
+
 ---
 
 ## 🎓 Education
-**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**    *Sept 2022 – June 2026 (Expected)*  
-- **BSc**: Major in Applied Mathematics   *GPA: 3.79/4.0 (Rank 2)*  
+**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  ‘’  *Sept 2022 – June 2026 (Expected)*  
+- **BSc**: Major in Applied Mathematics  ‘’ *GPA: 3.79/4.0 (Rank 2)*  
 - **BSc**: Minor in Computer Science and Technology  
 
 ---
 
 ## 📖 Research Experience
 - **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
-  *Team Member (Mentor: Prof. Jianglun Wu) | Feb 2025 – Present*  
+  *Team Member ( Mentor: Prof. Jianglun Wu ) | Feb 2025 – Present*  
 - **Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
-  *Research Assistant (Dr. Jiaqi Zhang) | Feb 2025 – Present*  
+  *Research Assistant ( Dr. Jiaqi Zhang ) | Feb 2025 – Present*  
 - **Olympic Intelligent Archery Equipment Development**  
-  *Research Assistant (Dr. Jiaqi Zhang) | June 2024 – Oct 2024*  
+  *Research Assistant ( Dr. Jiaqi Zhang ) | June 2024 – Oct 2024*  
 
 ---
 
@@ -57,12 +58,12 @@ More details is in my [CV](../files/CV_twopage.pdf) .
 ---
 
 ## 🏆 Awards
-- **2022-2024 First Class Award & Second Class Award**
-- **2024 The Third National Data Analysis Competition for College Student *|* Second Prize**
-- **2024 Mathematical Contest in Modeling (MCM) *|* Meritorious Winner (Top 8%)**
-- **2024 National Undergraduate Mathematical Contest in Modeling *|* Third Prize**
-- **2022-2023 Guangdong-HK-Macau Scholarship**
-- **2023 Shenzhen Cup Mathematical Modeling Challenge *|* Second Prize**
+- *2022-2024 First Class Award & Second Class Award*
+- *2024 The Third National Data Analysis Competition for College Student | Second Prize*
+- *2024 Mathematical Contest in Modeling (MCM) | Meritorious Winner (Top 8%)*
+- *2024 National Undergraduate Mathematical Contest in Modeling | Third Prize*
+- *2022-2023 Guangdong-HK-Macau Scholarship*
+- *2023 Shenzhen Cup Mathematical Modeling Challenge | Second Prize*
 
 ---
 
