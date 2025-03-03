@@ -46,9 +46,15 @@
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  max-width: 1200px; // 增加内容最大宽度
+  margin: 0 auto; // 居中对齐
+  padding: 0 20px; // 增加左右内边距
 }
 
 .page__content {
+  max-width: 1200px; // 增加内容最大宽度
+  margin: 0 auto; // 居中对齐
+  padding: 0 20px; // 增加左右内边距
 
   h2 {
     padding-bottom: 0.5em;
