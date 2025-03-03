@@ -14,8 +14,8 @@ More details in my [CV](../files/CV_twopage.pdf) .
 ---
 
 ## 🎓 Education
-**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  ''  *Sept 2022 – June 2026 (Expected)*  
-- **BSc**: Major in Applied Mathematics  '' *GPA: 3.79/4.0 (Rank 2)*  
+**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**      *Sept 2022 – June 2026 (Expected)*  
+- **BSc**: Major in Applied Mathematics      *GPA: 3.79/4.0 (Rank 2)*  
 - **BSc**: Minor in Computer Science and Technology  
 
 ---
@@ -47,20 +47,23 @@ More details in my [CV](../files/CV_twopage.pdf) .
 ---
 
 ## 💼 Extracurricular Experience
-- **ITSC Department of UIC, Student Assistant** '' *Sept 2024 – Present*  
-- **UIC Peer Mentor Program**  '' *Aug 2023 – June 2024*  
-- **W-beE Outdoor Club, Finance Department Officer**  '' *Sept 2023 – Aug 2024*  
-- **UIC Table Tennis Association, Working Staff**  * * *Sept 2022 – June 2023*  
+- 2024.09 - present ITSC Department of UIC, *Student Assistant*
+- 2023.08 - 2024.06 UIC Peer Mentor Program, *Outstanding Peer Mentor*
+- 2023.09 - 2024.08 W-beE Outdoor Club, *Finance Department Officer*
+- 2022.09 - 2023.06 UIC Table Tennis Association, *Working Staff*
 
 ---
 
-## 🏆 Awards
+## 🏆 Scholarship and Awards
 - 2022-2024 First Class Award & Second Class Award
 - 2022-2023 Guangdong-HK-Macau Scholarship
 - 2024 The Third National Data Analysis Competition for College Student *Second Prize*
 - 2024 Mathematical Contest in Modeling (MCM) *Meritorious Winner (Top 8%)*
 - 2024 National Undergraduate Mathematical Contest in Modeling  *Third Prize*
+- 2024 Bronze Award of Servant Leadership, UIC
+- 2023 GUANGDONG-HONG KONG-MACAO GREATER BAY AREA MATHEMATICS EDUCATION FORUM volunteer
 - 2023 Shenzhen Cup Mathematical Modeling Challenge  *Second Prize*
+- 2023 Best Chinese Writing Award, UIC
 
 ---
 
