@@ -26,13 +26,13 @@ author:
   name             : "Zhiwen Tian"
   pronouns         : # example: "she/her"  
   bio              :  |   
-    BSc, UIC
-    major in Math, minor in CS
+    BSc, UIC，2022 - 2026
+    Major in Math, Minor in CS
     Unfinished lessons in life keep coming
   location         : "Zhuhai, Guangdong, China"
   employer         : # URL"Red Brick University"
   uri              : # URL
-  email            : "s230033036@mail.uic.edu.cn" 
+  email            : "Email: s230033036@mail.uic.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -354,3 +354,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
