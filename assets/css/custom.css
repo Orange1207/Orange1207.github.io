@@ -1,27 +1,3 @@
-/* General styles */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #f8f9fa;
-    padding: 20px;
-    text-align: center;
-    border-bottom: 1px solid #e8e9ea;
-}
-
-main {
-    padding: 20px;
-}
-
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #f8f9fa;
-    border-top: 1px solid #e8e9ea;
-}
 
 /* Container styles */
 .container {
@@ -48,25 +24,52 @@ footer {
     text-align: center;
 }
 
-/* Custom styles */
-.sidebar {
-    width: 400px; /* Adjust the width here as needed */
-    float: right;
-    padding: 10px;
-    background-color: #f1f1f1;
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #e8e9ea;
 }
 
 .main-content {
-    margin-right: 420px; /* Adjust this to match sidebar width */
+    padding: 20px;
+    width: 70%; /* Increase the width of the left content area */
+    float: left;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e8e9ea;
+}
+
+/* Custom styles */
+.sidebar {
+    width: 25%; /* Adjust the width here as needed */
+    padding: 20px;
+    background-color: #f1f1f1;
+    float: right;
+    margin-top: 20px; /* Add some margin to the top */
 }
 
 @media (max-width: 768px) {
     .sidebar {
         width: 100%;
         margin-right: 0;
+        float: none;
     }
 
     .main-content {
+        width: 100%;
         margin-right: 0;
+        float: none;
     }
 }
