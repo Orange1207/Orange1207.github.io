@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-Welcome to my homepage!Hello! My name is Zhiwen Tian (June), and I am a dedicated and passionate student at Beijing Normal University-Hong Kong Baptist University United International College (UIC). I am currently pursuing a Bachelor of Science in Applied Mathematics with a minor in Computer Science and Technology. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
+Welcome to June's Homepage! My name is Zhiwen Tian (June), and I am a dedicated and passionate student at UIC. I am currently pursuing a Bachelor of Science in Applied Mathematics with a minor in Computer Science and Technology. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
 
 <nav>
   <ul style="list-style-type: none; font-size: 1.2em; margin: 0; padding: 0;">
