@@ -6,15 +6,15 @@ redirect_from:
   - /about/
 ---
 
-Welcome to June's Homepage! My name is **Zhiwen Tian (June)**, and I am a dedicated and passionate student at UIC. I am currently pursuing a Bachelor of Science in **Applied Mathematics** with a minor in **Computer Science and Technology**. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
+Welcome to June's Homepage! 💗
+My name is **Zhiwen Tian (June)**, and I am a dedicated and passionate student at UIC. I am currently pursuing a Bachelor of Science in **Applied Mathematics** with a minor in **Computer Science and Technology**. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
 
+More details is in my [CV](../files/CV_twopage.pdf) .
 ---
 
 ## 🎓 Education
-**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
-*Sept 2022 – June 2026 (Expected)*  
-- **BSc**: Major in Applied Mathematics  
-  GPA: 3.79/4.0 (Rank 2)  
+**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**    *Sept 2022 – June 2026 (Expected)*  
+- **BSc**: Major in Applied Mathematics   *GPA: 3.79/4.0 (Rank 2)*  
 - **BSc**: Minor in Computer Science and Technology  
 
 ---
@@ -30,7 +30,7 @@ Welcome to June's Homepage! My name is **Zhiwen Tian (June)**, and I am a dedica
 ---
 
 ## 💻 Project Experience
-- **2020 U.S. Election Sentiment Analysis [Report](../files/project1.pdf)**  
+- **2020 U.S. Election Sentiment Analysis**  
   *Core Member | Nov 2024*  
   [Report](../files/project1.pdf)  
 - **Spam Classification Analysis and Optimization Using Machine Learning Models**  
@@ -58,11 +58,11 @@ Welcome to June's Homepage! My name is **Zhiwen Tian (June)**, and I am a dedica
 
 ## 🏆 Awards
 - **2022-2024 First Class Award & Second Class Award**
-- **2024 The Third National Data Analysis Competition for College Student | Second Prize**
-- **2024 Mathematical Contest in Modeling (MCM) | Meritorious Winner (Top 8%)**
-- **2024 National Undergraduate Mathematical Contest in Modeling | Third Prize**
+- **2024 The Third National Data Analysis Competition for College Student *|* Second Prize**
+- **2024 Mathematical Contest in Modeling (MCM) *|* Meritorious Winner (Top 8%)**
+- **2024 National Undergraduate Mathematical Contest in Modeling *|* Third Prize**
 - **2022-2023 Guangdong-HK-Macau Scholarship**
-- **2023 Shenzhen Cup Mathematical Modeling Challenge | Second Prize**
+- **2023 Shenzhen Cup Mathematical Modeling Challenge *|* Second Prize**
 
 ---
 
