@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
+
 ## Education
 **Beijing Normal University-Hong Kong Baptist University United International College (UIC)** 
 *Sept 2022 – June 2026 (Expected)*  
@@ -16,12 +16,12 @@ About me
 ---
 
 ## Research Experience
-* **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
-  *Team Member (Mentor:Prof. Jianglun Wu) | Feb 2025 – Present*    
-* **Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
-  *Research Assistant (Dr. Jiaqi Zhang) | Feb 2025 – Present*  
-* **Olympic Intelligent Archery Equipment Development**  
-  *Research Assistant (Dr. Jiaqi Zhang) | June 2024 – Oct 2024*  
+   * **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
+      *Team Member (Mentor:Prof. Jianglun Wu) | Feb 2025 – Present*    
+   * **Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
+      *Research Assistant (Dr. Jiaqi Zhang) | Feb 2025 – Present*  
+   * **Olympic Intelligent Archery Equipment Development**  
+      *Research Assistant (Dr. Jiaqi Zhang) | June 2024 – Oct 2024*  
   
 
 ---
