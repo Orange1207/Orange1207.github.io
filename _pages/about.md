@@ -50,10 +50,10 @@ Models**  [report](files/report.pdf)
 ---
 
 ## 💼 Extracurricular Experience
-- ITSC department of UIC, Student Assistant
-- UIC Peer Mentor Program
-- W-beE Outdoor Club
-- UIC Table Tennis Association
+- ITSC department of UIC, Student Assistant | Sept 2024 – Present
+- UIC Peer Mentor Program | Aud 2023 - June 2024
+- W-beE Outdoor Club, Finance Department Officer  | Sept 2023 - Aug 2024
+- UIC Table Tennis Association, Working Staff  | Sept 2022 - June 2023
 
 ---
 
