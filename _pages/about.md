@@ -7,11 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+<nav>
+  <ul>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#research-experience">Research Experience</a></li>
+    <li><a href="#project-experience">Project Experience</a></li>
+    <li><a href="#extracurricular-experience">Extracurricular Experience</a></li>
+    <li><a href="#awards">Awards</a></li>
+  </ul>
+</nav>
+
 ## Education
 **Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
 *Sept 2022 – June 2026 (Expected)*  
-- **BSc**: Major in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
-- **BSc**: Minor in Computer Science and Technology  
+* **BSc**: Major in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
+* **BSc**: Minor in Computer Science and Technology  
 
 ---
 
