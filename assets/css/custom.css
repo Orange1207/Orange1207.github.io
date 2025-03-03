@@ -20,3 +20,25 @@
 .center-text {
     text-align: center;
 }
+/* Custom styles */
+.sidebar {
+    width: 400px; /* Adjust the width here as needed */
+    float: right;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+
+.main-content {
+    margin-right: 420px; /* Adjust this to match sidebar width */
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .main-content {
+        margin-right: 0;
+    }
+}
