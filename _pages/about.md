@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## About me
 ### Education
-***Beijing Normal University-Hong Kong Baptist University United International College (UIC)*** 
+**Beijing Normal University-Hong Kong Baptist University United International College (UIC)** 
 *Sept 2022 – June 2026 (Expected)*  
 - BSc：Major in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
 - BSc：Minor in Computer Science and Technology  
