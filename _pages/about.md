@@ -16,35 +16,35 @@ redirect_from:
 ---
 
 ## Research Experience
-**Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
-*Team Member (Mentor:Prof. Jianglun Wu)| Feb 2025 – Present*    
+* **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
+  *Team Member (Mentor:Prof. Jianglun Wu) | Feb 2025 – Present*    
 
-**Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
-*Research Assistant (Dr. Jiaqi Zhang)| Feb 2025 – Present*  
+* **Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
+  *Research Assistant (Dr. Jiaqi Zhang) | Feb 2025 – Present*  
 
-**Olympic Intelligent Archery Equipment Development**  
-*Research Assistant (Dr. Jiaqi Zhang)| June 2024 – Oct 2024*  
+* **Olympic Intelligent Archery Equipment Development**  
+  *Research Assistant (Dr. Jiaqi Zhang) | June 2024 – Oct 2024*  
   
 
 ---
 
 ## Project Experience
-**2020 U.S. Election Sentiment Analysis** 
-*Core Member* | Nov 2024
+* **2020 U.S. Election Sentiment Analysis** 
+  *Core Member* | Nov 2024
 
-**Analysis of Regional Medical Resource Allocation in China** 
-*Core Member* | Sept 2024
+* **Analysis of Regional Medical Resource Allocation in China** 
+  *Core Member* | Sept 2024
 
-**Sex Ratio Effects on Lamprey Ecosystem Dynamics** 
-*Core Member*| Feb 2024 
+* **Sex Ratio Effects on Lamprey Ecosystem Dynamics** 
+  *Core Member*| Feb 2024 
  
 
 ---
 
 ## Extracurricular Experience
-**UIC Peer Mentor Program**  
-**ITSC Department Student Assistant**  
-**W-beE Outdoor Club**  
+- UIC Peer Mentor Program
+- ITSC Department Student Assistant
+- W-beE Outdoor Club  
 
 
 ---
