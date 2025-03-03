@@ -15,11 +15,46 @@ You can get my CV here [tianzhiwen_CV](../files/CV_twopage.pdf).
 ---
 
 ## 🎓 Education
-**2022.09 - 2026.06 Beijing Normal University-Hong Kong Baptist University United International College (UIC)**       
-- **BSc**: Major in Applied Mathematics and  Minor in Computer Science and Technology    
-- **GPA**:  3.79/4.0 (Rank 2)
+**2022.09 - 2026.06 Beijing Normal University-Hong Kong Baptist University United International College (UIC)**   **GPA**:  3.79/4.0 (Rank 2)    
+- **BSc**: Major in Applied Mathematics
+- **BSc**: Minor in Computer Science and Technology    
 
 ---
+<div class="row">
+  <div class="column">
+    ## 📖 Research Experience
+    - **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
+      <span class="date">Feb 2025 – Present</span>  
+      *Team Member ( Mentor: Prof. Jianglun Wu )*  
+    - **Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
+      <span class="date">Feb 2025 – Present</span>  
+      *Research Assistant ( Dr. Jiaqi Zhang )*  
+    - **Olympic Intelligent Archery Equipment Development**  
+      <span class="date">June 2024 – Oct 2024</span>  
+      *Research Assistant ( Dr. Jiaqi Zhang )*  
+  </div>
+  
+  <div class="column">
+    ## 💻 Project Experience
+    - **2020 U.S. Election Sentiment Analysis**  
+      <span class="date">Nov 2024</span>  
+      *Core Member*  
+      [Report](../files/project1.pdf)  
+    - **Spam Classification Analysis and Optimization Using Machine Learning Models**  
+      <span class="date">Feb 2024</span>  
+      *Sole Author*  
+      [Report](../files/report.pdf)  
+    - **Analysis of Regional Medical Resource Allocation in China**  
+      <span class="date">Sept 2024</span>  
+      *Core Member*  
+      [Report](../files/project2.pdf)  
+    - **Sex Ratio Effects on Lamprey Ecosystem Dynamics**  
+      <span class="date">Feb 2024</span>  
+      *Core Member*  
+      [Report](../files/project3.pdf)  
+  </div>
+</div>
+
 
 ## 📖 Research Experience
 - **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
