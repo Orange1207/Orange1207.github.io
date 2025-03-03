@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Education
-**Beijing Normal University-Hong Kong Baptist University United International College (UIC)**  
+***Beijing Normal University-Hong Kong Baptist University United International College (UIC)*** 
 *Sept 2022 – June 2026 (Expected)*  
 - BSc：Major in Applied Mathematics | GPA: 3.79/4.0 (Rank 2)  
 - BSc：Minor in Computer Science and Technology  
@@ -36,7 +36,7 @@ redirect_from:
   *Core Member* | Sept 2024
 
 * **Sex Ratio Effects on Lamprey Ecosystem Dynamics** 
-  *Core Member*| Feb 2024 
+  *Core Member* | Feb 2024 
  
 
 ---
