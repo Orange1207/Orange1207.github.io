@@ -22,7 +22,7 @@ repository               : "Orange1207/Orange1207.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.jpg"
+  avatar           : "images/personal.jpg"
   name             : "Zhiwen Tian"
   pronouns         : # example: "she/her"  
   bio              : "B.E. UIC"
