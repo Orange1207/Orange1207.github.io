@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Education
-======
+===
 * **Beijing Normal University-Hong Kong Baptist University United International College (UIC)**   *Sept 2022 – June 2026 (Expected)*
   - Major: BSc in Applied Mathematics    *GPA: 3.79/4.0 (Rank 2)* 
   - Minor: BSc in Computer Science and Technology  
@@ -18,10 +18,10 @@ Reserch Experience
 * **Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution**  
   Team Member (Preparation for FYP, Mentor: Prof.Jianglun Wu) | *Feb 2025 – Present*  
     
-* ** A Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
+* **A Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury**  
   Research Assistant ( Mentor: Dr.Jiaqi Zhang ) | *Feb 2025 – Present*  
     
-* ** Olympic Preparation Technology Research Project: Development of the Third Generation Intelligent Selection Arrow Equipment and System**  
+* **Olympic Preparation Technology Research Project: Development of the Third Generation Intelligent Selection Arrow Equipment and System**  
   Research Assistant ( Mentor: Dr.Jiaqi Zhang ) | *June 2024 – Oct 2024*  
   
 
