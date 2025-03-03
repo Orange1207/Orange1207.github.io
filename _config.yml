@@ -25,9 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Zhiwen Tian"
   pronouns         : # example: "she/her"  
-  bio              : "B.E. UIC"
-                     "Major in Applied Mathematics"
-                     "Minor in Computer Science"
+  bio              :  |   
+    BSc, UIC
+    major in Math, minor in CS
+    Unfinished lessons in life keep coming
   location         : "Zhuhai, Guangdong, China"
   employer         : # URL"Red Brick University"
   uri              : # URL
