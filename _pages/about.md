@@ -4,6 +4,7 @@ title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
+
 ---
 Welcome to June's Homepage! My name is Zhiwen Tian (June), and I am a dedicated and passionate student at UIC. I am currently pursuing a Bachelor of Science in Applied Mathematics with a minor in Computer Science and Technology. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.
 
