@@ -2,14 +2,14 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 0;
 }
 
 header {
     background-color: #f8f9fa;
     padding: 20px;
     text-align: center;
-    border-bottom: 1px solid;
+    border-bottom: 1px ;
 }
 
 .container {
@@ -39,7 +39,7 @@ footer {
     padding: 20px;
     background-color: #f1f1f1;
     float: right;
-    padding-top: 100px; /* Add some margin to the top */
+    magin-top: 50px; /* Add some margin to the top */
 }
 
 @media (max-width: 768px) {
