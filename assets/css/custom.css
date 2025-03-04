@@ -6,7 +6,6 @@ body {
 }
 
 header {
-    /*background-color: #f1f1f1;*/
     padding: 20px;
     text-align: center;
     border-bottom: 20px ;
@@ -20,13 +19,12 @@ header {
 .main-content {
     padding: 20px;
     width: 100%; /* Increase the width of the left content area */
-    float: left;
+    float: center;
 }
 
 footer {
     text-align: center;
     padding: 20px;
-    /*background-color:  #f8f9fa;*/
     border-top: 20px  ;
 }
 
@@ -37,7 +35,7 @@ footer {
 .sidebar {
     width: 25%; /* Adjust the width here as needed */
     padding: 20px;
-    background-color: #f1f1f1;
+    background-color: #f8f9fa;
     float: right;
     magin-top: 50px; /* Add some margin to the top */
 }
