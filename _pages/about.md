@@ -34,7 +34,6 @@ redirect_from:
     <li><strong>Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury</strong><br>
             <em>Research Assistant (Dr. Jiaqi Zhang) ｜ Feb 2025 – Present</em><br>
     </li>
-      
     <li><strong>Olympic Intelligent Archery Equipment Development</strong><br>
               <em>Research Assistant (Dr. Jiaqi Zhang) ｜June 2024 – Oct 2024</em><br>
     </li>
