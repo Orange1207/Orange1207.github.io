@@ -1,7 +1,7 @@
 /* General styles */
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin: 20px;
     padding: 0;
 }
 
@@ -13,7 +13,7 @@ header {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 1800px;
     margin: 0 auto;
 }
 
@@ -36,7 +36,7 @@ footer {
     padding: 20px;
     background-color: #f1f1f1;
     float: right;
-    margin-top: 50px; /* Add some margin to the top */
+    margin-top: 80px; /* Add some margin to the top */
 }
 
 @media (max-width: 768px) {
