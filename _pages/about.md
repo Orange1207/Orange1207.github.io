@@ -48,11 +48,11 @@ redirect_from:
       <a href="../files/project1.pdf">Report</a>
     </li>
     <li><strong>Spam Classification Analysis and Optimization Using Machine Learning Models</strong><br>
-      <em>Sole Author | Feb 2024</em><br>
+      <em>Sole Author | Oct 2024</em><br>
       <a href="../files/report.pdf">Report</a>
     </li>
     <li><strong>Analysis of Regional Medical Resource Allocation in China</strong><br>
-      <em>Core Member | Sept 2024</em><br>
+      <em>Core Member | Aug 2024</em><br>
       <a href="../files/project2.pdf">Report</a>
     </li>
     <li><strong>Sex Ratio Effects on Lamprey Ecosystem Dynamics</strong><br>
