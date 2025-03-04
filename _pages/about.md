@@ -27,33 +27,18 @@ redirect_from:
   <hr>
 
   <h2>📖 Research Experience</h2>
-  <div class="flex-container">
-    <div class="flex-item">
-      <strong>Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution</strong><br>
-      Team Member (Mentor: Prof. Jianglun Wu)
-    </div>
-    <div class="flex-item flex-item-right">
-      Feb 2025 – Present
-    </div>
-  </div>
-  <div class="flex-container">
-    <div class="flex-item">
-      <strong>Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury</strong><br>
-      Research Assistant (Dr. Jiaqi Zhang)
-    </div>
-    <div class="flex-item flex-item-right">
-      Feb 2025 – Present
-    </div>
-  </div>
-  <div class="flex-container">
-    <div class="flex-item">
-      <strong>Olympic Intelligent Archery Equipment Development</strong><br>
-      Research Assistant (Dr. Jiaqi Zhang)
-    </div>
-    <div class="flex-item flex-item-right">
-      June 2024 – Oct 2024
-    </div>
-  </div>
+  <ul>
+    <li><strong>Multiscale Stochastic Modeling of Cell Carcinogenesis Evolution</strong><br>
+            <em>Team Member (Mentor: Prof. Jianglun Wu) ｜ Feb 2025 – Present</em><br>
+    </li>
+    <li><strong>Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury</strong><br>
+            <em>Research Assistant (Dr. Jiaqi Zhang) ｜ Feb 2025 – Present</em><br>
+    </li>
+      
+    <li><strong>Olympic Intelligent Archery Equipment Development</strong><br>
+              <em>Research Assistant (Dr. Jiaqi Zhang) ｜June 2024 – Oct 2024</em><br>
+    </li>
+  </ul>
 
   <hr>
 
