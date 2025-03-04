@@ -8,16 +8,6 @@ redirect_from:
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
 
-<header class="fixed-nav">
-  <nav>
-    <a href="#education">Education</a>
-    <a href="#research">Research</a>
-    <a href="#projects">Projects</a>
-    <a href="#experience">Experience</a>
-    <a href="#awards">Awards</a>
-  </nav>
-</header>
-
 <div class="container">
   <h1 class="center-text">Welcome to June's Homepage! 💗</h1>
   
