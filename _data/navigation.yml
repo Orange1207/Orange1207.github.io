@@ -28,12 +28,16 @@ main:
 
   - title: "Education"
     url: "/about/#education"
+    
   - title: "Research"
     url: "/about/#research-experience"
+    
   - title: "Projects"
     url: "/about/#project-experience"
+    
   - title: "Experience"
     url: "/about/#extracurricular-experience"
+    
   - title: "Awards"
     url: "/about/#awards"
   
