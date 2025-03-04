@@ -9,7 +9,7 @@ header {
     background-color: #f8f9fa;
     padding: 20px;
     text-align: center;
-    border-bottom: 1px solid #e8e9ea;
+    border-bottom: 1px solid;
 }
 
 .container {
@@ -19,7 +19,7 @@ header {
 
 .main-content {
     padding: 20px;
-    width: 70%; /* Increase the width of the left content area */
+    width: 100%; /* Increase the width of the left content area */
     float: left;
 }
 
@@ -27,7 +27,7 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: #f8f9fa;
-    border-top: 1px solid #e8e9ea;
+    border-top: 1px solid ;
 }
 
 /* Custom styles */
