@@ -18,7 +18,7 @@ redirect_from:
   <hr>
 
   <h2>🎓 Education</h2>
-  <p><strong>2022.09 - 2026.06 Beijing Normal University-Hong Kong Baptist University United International College (UIC)</strong> </p>
+  <p><strong>2022.09 - 2026.06 Beijing Normal University-Hong Kong Baptist University United International College (UIC)</strong> <span style="float:right;"> GPA: 3.79/4.0 (Rank 2)</span></p>
   <ul>
     <li><strong>BSc</strong>: Major in Applied Mathematics</li>
     <li><strong>BSc</strong>: Minor in Computer Science and Technology</li>
