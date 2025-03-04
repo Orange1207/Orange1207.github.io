@@ -52,3 +52,12 @@ footer {
         float: none;
     }
 }
+
+// Remove unnecessary borders
+.welcome-section {
+    border-top: none; /* Remove the top border */
+}
+
+.update-section {
+    border-bottom: none; /* Remove the bottom border */
+}
