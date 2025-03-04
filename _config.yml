@@ -13,7 +13,7 @@ title                    : "June / Home"
 title_separator          : "-"
 name                     : &name "Zhiwen Tian"
 description              : &description "personal description"
-url                      : https://Orange1207.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://orange1207.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Orange1207/Orange1207.github.io"
 
@@ -26,13 +26,13 @@ author:
   name             : "Zhiwen Tian"
   pronouns         :  # example: "she/her"  
   bio              :  |   
-    BSc, UIC，2022 - 2026
-    Major in Math, Minor in CS
-    Unfinished lessons in life keep coming
+                      BSc, UIC, 2022 - 2026
+                      Major in Math, Minor in CS
+                      Unfinished lessons in life keep coming
   location         : "Zhuhai, Guangdong, China"
   employer         :  # URL"Red Brick University"
   uri              :  # URL
-  email            : "Email: s230033036@mail.uic.edu.cn" 
+  email            : "s230033036@mail.uic.edu.cn" 
 
   # Academic websites
   arxiv            :  # URL - Update with the correct link to your profile
