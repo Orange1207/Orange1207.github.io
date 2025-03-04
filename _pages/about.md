@@ -8,6 +8,7 @@ redirect_from:
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
 
+
 <div class="container">
   <h1 class="center-text">Welcome to June's Homepage! 💗</h1>
   
