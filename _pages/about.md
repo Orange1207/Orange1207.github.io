@@ -14,7 +14,7 @@ redirect_from:
   
   <p class="center-text">My name is <strong>Zhiwen Tian (June)</strong>. I am currently pursuing a Bachelor of Science in <strong>Applied Mathematics</strong> with a minor in <strong>Computer Science and Technology</strong>. My interests lie in research, projects, and extracurricular activities, and I am always eager to learn and grow in my field.</p>
   
-  <p class="center-text">You can get my CV here <a href="../files/CV_twopage.pdf">tianzhiwen_CV</a>.</p>
+  <p class="center-text">You can get my CV here <a href="../files/CV_tianzhiwen.pdf">tianzhiwen_CV</a>.</p>
 
   <hr>
 
