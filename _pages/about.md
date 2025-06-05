@@ -30,10 +30,10 @@ redirect_from:
   <h2>📖 Research Experience</h2>
   <ul>
     <li><strong>The application of causality emergence in cellular networks</strong><br>
-            <em>Member ｜ Nov 2025 – Present</em><br>
+            <em>Member ｜ Feb 2025 – Present</em><br>
     </li>
     <li><strong>A Comprehensive Numerical Study of Rotation-induced Traumatic Brain Injury</strong><br>
-            <em>Research Assistant ｜ Nov 2025 – Present</em><br>
+            <em>Research Assistant ｜ Nov 2024 – Present</em><br>
     </li>
     <li><strong>Olympic Intelligent Archery Equipment Development</strong><br>
               <em>Research Assistant ｜June 2024 – Oct 2024</em><br>
