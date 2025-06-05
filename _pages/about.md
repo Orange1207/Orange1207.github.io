@@ -19,7 +19,7 @@ redirect_from:
   <hr>
 
   <h2>🎓 Education</h2>
-  <p><strong>2022.09 - 2026.06 Beijing Normal-Hong Kong Baptist University(BNBU)</strong><span style="float:right;"><em> GPA: 3.79/4.0 (Rank 2) </em></span></p>
+  <p><strong>2022.09 - 2026.06 Beijing Normal-Hong Kong Baptist University(BNBU)</strong><span style="float:right;"><em> GPA: 3.79/4.0 </em></span></p>
   <ul>
     <li><strong>BSc</strong>: Major in Applied Mathematics</li>
     <li><strong>BSc</strong>: Minor in Computer Science and Technology</li>
@@ -41,6 +41,10 @@ redirect_from:
 
   <h2>💻 Project Experience</h2>
   <ul>
+    <li><strong>Building a Bayesian Network-Based Query System for Weather Prediction</strong><br>
+      <em>Core Member | MAY 2025</em><br>
+      <a href="../files/BN_report.pdf">Report</a>
+    </li>
     <li><strong>2020 U.S. Election Sentiment Analysis</strong><br>
       <em>Core Member | Nov 2024</em><br>
       <a href="../files/project1.pdf">Report</a>
